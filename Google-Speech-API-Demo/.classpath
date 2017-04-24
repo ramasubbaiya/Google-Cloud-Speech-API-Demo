@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_65]"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/google-api-services-speech-v1beta1-rev332-1.22.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/google-api-services-speech-v1beta1-rev332-1.22.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/google-api-services-speech-v1beta1-rev332-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-android-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-appengine-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-gson-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-jackson2-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-java6-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-api-client-servlet-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-android-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-appengine-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-gson-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-jackson2-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-http-client-jdo-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-oauth-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-oauth-client-appengine-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-oauth-client-java6-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-oauth-client-jetty-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/google-oauth-client-servlet-1.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/Rama/Downloads/speech/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
